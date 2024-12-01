@@ -2,7 +2,7 @@ class Phone {
 
     static number = parseFloat(this.number)
     constructor(){
-        // this is an empty array used to save the phonenumbers and the observers
+        // this is an empty array that used to save the phonenumbers and the observers
         this.Phonenumber = []
         this.observers = []
     }
